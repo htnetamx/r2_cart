@@ -1,1 +1,1 @@
-# r2_cart
+# Componente autogestionado. La persistencia será en el localstorage del navegador, para mantener los productos seleccionados hasta que se confirme o limipie el mismo.
